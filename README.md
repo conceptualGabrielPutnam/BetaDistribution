@@ -5,7 +5,7 @@ Like the title says, very basic project for generating a beta distribution to gi
 
 https://en.wikipedia.org/wiki/Beta_distribution
 
-https://imgur.com/EOkLPBF
+[https://imgur.com/EOkLPBF](https://imgur.com/EOkLPBF)
 
 Example usage in a program would be:
 
