@@ -10,6 +10,7 @@ https://en.wikipedia.org/wiki/Beta_distribution
 Example usage in a program would be:
 
 // Define the ProbabilityCalculator
+
 mBetaDistAlphaParam = // Some number 0.1 to 5 tend to be reasonable (read article above and tailor toward your needs)
 
 mBetaDistBetaParam  = // Some number 0.1 to 5 tend to be reasonable (read article above and tailor toward your needs)
